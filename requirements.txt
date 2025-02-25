@@ -2,5 +2,3 @@ streamlit
 anthropic
 PyPDF2
 docx2txt
-datetime
-re
